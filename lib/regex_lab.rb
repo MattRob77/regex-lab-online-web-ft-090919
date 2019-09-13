@@ -27,7 +27,6 @@ end
 
 
 def valid_phone_number?(phone)
-  def valid_phone_number?(phone)
 
   phone.scan(/[0-9]/).size == 10
 
